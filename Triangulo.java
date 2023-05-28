@@ -1,3 +1,4 @@
+package EDA_LAB_02;
 public class Triangulo {
     public static void main(String[] args) {
         trianguloRecursivo(5);

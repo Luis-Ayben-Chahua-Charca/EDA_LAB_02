@@ -1,3 +1,4 @@
+package EDA_LAB_02;
 public class Lista<T> {
     private T[] elementos;
     private int tamaño;
